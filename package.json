@@ -1,0 +1,16 @@
+{
+  "name": "todomvc-jquery-mocha-test",
+  "description": "",
+  "version": "0.1.0",
+  "author": "Hideki Abe",
+  "main": "Gruntfile.coffee",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-mocha-phantomjs": "~0.3.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-contrib-livereload": "~0.1.2"
+  }
+}
